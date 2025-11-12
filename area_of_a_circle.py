@@ -3,10 +3,10 @@ def compute_area_of_circle(radius):
 	area = pi * radius * radius
 	return area
 
-radius1 = 25
+radius1 = 89
 area1 = compute_area_of_circle(radius1)
 print(f"The area of circle with radius {radius1} is: {area1}")
 
-radius2 = 36
+radius2 = 100
 area2 = compute_area_of_circle(radius2)
 print(f"The area of circle with radius {radius2} is: {area2}")
